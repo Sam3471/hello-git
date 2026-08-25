@@ -1,1 +1,1 @@
-print("Wena wena los kbros")
+print("Mala mala los kbros :c")
